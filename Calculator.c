@@ -1,4 +1,5 @@
-/* Master Piyboot Prasertsuwan A303 DATALOGI */
+/*Made by Piyboot Prasertsuwan  */
+/*Do not use this for busniess purpose! */
 
 #include <stdio.h>
 #include <math.h>
